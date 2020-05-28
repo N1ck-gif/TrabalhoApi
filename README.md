@@ -4,6 +4,10 @@ Ao estudar a API OmdbApi, criei um layout para receber e exibir as informações
 
 API Utilizada - Omdb API;
 
+Linguagem utilizada: JavaScript.
+
+Utilização: Para a ativação da api, foi nescessário um cadastro para a retirada de uma chave que a api disponibilizaria.
+
 Layout: O layout criado foi um layout simples, onde o usuário pesquisa um filme indicando o nome e caso queira indica o ano do lançamento, também. Ao realizar a pesquisa, um card desce com as informações do filme pesquisado.
 
 Informações retiradas: As informações retiradas da api foram: Título, Ano, Lançamento, Duração, Gênero, País e Atores. Todas as informações foram retornadas da api em formato JSON.
